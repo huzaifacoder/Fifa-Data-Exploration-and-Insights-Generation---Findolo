@@ -1,0 +1,12 @@
+Required modules/libraries:
+  pip install tk
+  pip intall pillow
+  pip install pandas
+  pip install numpy
+  pip install scipy
+  pip install threadpoolctl
+  pip install plotly
+  
+  or...
+  
+  pip install tk, pillow, pandas, numpy, scipy, threadpoolctl, plotly

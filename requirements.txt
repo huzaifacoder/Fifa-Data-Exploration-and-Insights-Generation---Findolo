@@ -1,5 +1,5 @@
-open cmd
-and cd "<Project Folder>"
+open cmd.
+cd "<Project Folder>".
 Install required modules/libraries:
   pip install tk
   pip intall pillow
